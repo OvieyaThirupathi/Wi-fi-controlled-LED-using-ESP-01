@@ -85,7 +85,7 @@ The project demonstrates WiFi connection through ESP-01 and wireless control of 
 
 **12\. Circuit Diagram**
 
-\[Paste the ESP-01 \+ LED circuit diagram here\]
+![image alt](https://github.com/OvieyaThirupathi/Wi-fi-controlled-LED-using-ESP-01/blob/ce44fc0be61b5153dd3113a5758083da4cbe2d76/ESP%20C.jpeg)
 
 **13\. Project Images**
 
