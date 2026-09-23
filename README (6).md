@@ -94,3 +94,7 @@ The project demonstrates WiFi connection through ESP-01 and wireless control of 
 
 
 ![image alt](https://github.com/OvieyaThirupathi/Wi-fi-controlled-LED-using-ESP-01/blob/b4b56530c792f06133fa67147ae4524ec3f7c856/BLUE%20ESP.jpeg)
+
+
+
+![image alt](https://github.com/OvieyaThirupathi/Wi-fi-controlled-LED-using-ESP-01/blob/56033772510071aedd9694e7739d35f2507bdc74/BOTH%20LED.jpeg)
